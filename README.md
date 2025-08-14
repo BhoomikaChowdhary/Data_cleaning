@@ -32,6 +32,3 @@ This project focuses on the **data cleaning and exploration** phase of a custome
 
 
 
-matplotlib
-
-seaborn
