@@ -1,10 +1,10 @@
-# Customer Segmentation: Data Cleaning & Exploration
+# Data Cleaning & Exploration
 
 ## Project Overview
-This project focuses on the **data cleaning and exploration** phase of a customer segmentation analysis for an e-commerce company. The goal is to prepare the dataset for clustering by identifying and handling missing values, duplicates, and outliers, and to gain insights through descriptive statistics and visualizations.
+This project focuses on the **data cleaning and exploration** phase for an e-commerce company. The goal is to prepare the dataset for clustering by identifying and handling missing values, duplicates, and outliers, and to gain insights through descriptive statistics and visualizations.
 
 ## Dataset
-- **Source:** [Provide your dataset link here]  
+- **Source:** https://www.kaggle.com/datasets/datasnaek/youtube-new   https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data  
 - **Key Columns:**
   - `CustomerID` – Unique identifier for each customer  
   - `Recency` – Days since last purchase  
